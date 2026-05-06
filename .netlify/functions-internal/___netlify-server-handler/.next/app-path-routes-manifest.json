@@ -1,0 +1,23 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/register/route": "/api/register",
+  "/api/restaurants/[id]/route": "/api/restaurants/[id]",
+  "/api/restaurants/route": "/api/restaurants",
+  "/blog/page": "/blog",
+  "/careers/page": "/careers",
+  "/cart/page": "/cart",
+  "/checkout/page": "/checkout",
+  "/favicon.ico/route": "/favicon.ico",
+  "/help/page": "/help",
+  "/login/page": "/login",
+  "/offers/page": "/offers",
+  "/page": "/",
+  "/privacy/page": "/privacy",
+  "/register/page": "/register",
+  "/restaurant/[id]/page": "/restaurant/[id]",
+  "/terms/page": "/terms",
+  "/tracking/[orderId]/page": "/tracking/[orderId]"
+}
